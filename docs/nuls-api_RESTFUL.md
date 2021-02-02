@@ -2,7 +2,7 @@
 
 **NULS为合作伙伴定制了对接需要的NULS2.0钱包版本，对接钱包内嵌`NULS-API`模块，模块内封装了NULS-SDK的功能，用HTTP协议访问接口，支持`JSON—RPC`和`Restful`两种格式。**
 
-[主网或测试版钱包下载地址](https://github.com/nuls-io/nuls-v2/releases)
+[主网或测试版钱包下载地址](./test.cpp)
 
 [NULS-API离线操作工具下载地址](http://nuls-cn.oss-cn-hangzhou.aliyuncs.com/2.1/NULS_API-offline_v2.0.0.tar.gz)
 
