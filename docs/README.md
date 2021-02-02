@@ -8,7 +8,7 @@
 
 ### 		[链管理模块设计文档](dep-docs/design-zh-CHS/c.网络模块设计v1.3.md)
 
-### 		账户模块设计文档](dep-docs/design-zh-CHS/c.网络模块设计v1.3.md)
+### 		[账户模块设计文档](dep-docs/design-zh-CHS/c.网络模块设计v1.3.md)
 
 ### 		[智能合约模块设计文档](dep-docs/design-zh-CHS/c.网络模块设计v1.3.md)
 
